@@ -1,25 +1,15 @@
 class Solution {
 public:
-typedef long long ll;
-     ll dp[100001];
-     
-    ll solve(vector<vector<int>>& questions, int i) {
-        if (i >= questions.size()) {
-            return 0;
-        }
-        if(dp[i]!=-1)return dp[i];
-        ll nottake = solve(questions, i + 1);
-        ll take = 0;
-
-        take = questions[i][0] + solve(questions, i + questions[i][1]+1);
-
-        return dp[i]=max(take, nottake);
-    }
     long long mostPoints(vector<vector<int>>& questions) {
-        ll n = questions.size();
-        memset(dp,-1,sizeof(dp));
-        return solve(questions, 0);
+        int n=questions.size();
+        vector<long long>t(n);
+        t[n-1]=questions[n-1][0];
+        for(int i=n-2;i>=0;i--){
+            int x=questions[i][0];
+            int y=questions[i][1];
+            t[i]=max(x+((i+y+1<n)?t[i+y+1]:0),t[i+1]);
+        }
+        
+        return t[0];
     }
 };
-// 3
-// 4
