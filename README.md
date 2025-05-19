@@ -26,6 +26,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rk-2005/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Rk-2005/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rk-2005/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3321-type-of-triangle](https://github.com/Rk-2005/DSA/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rk-2005/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Rk-2005/DSA/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rk-2005/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -141,6 +142,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rk-2005/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Rk-2005/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rk-2005/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3321-type-of-triangle](https://github.com/Rk-2005/DSA/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Rk-2005/DSA/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Rk-2005/DSA/tree/master/0797-rabbits-in-forest) |
+| [3321-type-of-triangle](https://github.com/Rk-2005/DSA/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rk-2005/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Monotonic Queue
 |  |
