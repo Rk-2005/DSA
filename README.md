@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rk-2005/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rk-2005/DSA/tree/master/2793-count-the-number-of-complete-components) |
@@ -181,12 +182,14 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rk-2005/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rk-2005/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Enumeration
