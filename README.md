@@ -37,6 +37,7 @@
 | [3639-zero-array-transformation-i](https://github.com/Rk-2005/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rk-2005/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Rk-2005/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rk-2005/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rk-2005/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rk-2005/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rk-2005/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rk-2005/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rk-2005/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -178,6 +180,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rk-2005/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rk-2005/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rk-2005/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rk-2005/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
 |  |
 | ------- |
@@ -224,4 +227,9 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rk-2005/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rk-2005/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rk-2005/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
