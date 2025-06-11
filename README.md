@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rk-2005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Rk-2005/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rk-2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Rk-2005/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -191,6 +192,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Rk-2005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Rk-2005/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rk-2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0768-partition-labels](https://github.com/Rk-2005/DSA/tree/master/0768-partition-labels) |
