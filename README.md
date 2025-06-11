@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rk-2005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Rk-2005/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rk-2005/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Rk-2005/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rk-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -174,6 +175,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Rk-2005/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rk-2005/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rk-2005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rk-2005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -212,6 +214,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Rk-2005/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rk-2005/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rk-2005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0768-partition-labels](https://github.com/Rk-2005/DSA/tree/master/0768-partition-labels) |
