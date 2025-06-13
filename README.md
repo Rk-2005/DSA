@@ -32,6 +32,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rk-2005/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Rk-2005/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Rk-2005/DSA/tree/master/2690-house-robber-iv) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rk-2005/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rk-2005/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Rk-2005/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rk-2005/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -56,6 +57,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rk-2005/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Rk-2005/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Rk-2005/DSA/tree/master/2690-house-robber-iv) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rk-2005/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Rk-2005/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rk-2005/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rk-2005/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rk-2005/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rk-2005/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rk-2005/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Rk-2005/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
