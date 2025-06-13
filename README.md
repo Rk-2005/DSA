@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rk-2005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rk-2005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Rk-2005/DSA/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Rk-2005/DSA/tree/master/0238-product-of-array-except-self) |
 | [0416-partition-equal-subset-sum](https://github.com/Rk-2005/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0525-contiguous-array](https://github.com/Rk-2005/DSA/tree/master/0525-contiguous-array) |
 | [0797-rabbits-in-forest](https://github.com/Rk-2005/DSA/tree/master/0797-rabbits-in-forest) |
@@ -113,6 +114,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Rk-2005/DSA/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Rk-2005/DSA/tree/master/0525-contiguous-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Rk-2005/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rk-2005/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
