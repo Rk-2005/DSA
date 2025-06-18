@@ -52,6 +52,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rk-2005/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Rk-2005/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rk-2005/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Rk-2005/DSA/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rk-2005/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
 |  |
@@ -222,6 +223,7 @@
 | [0088-merge-sorted-array](https://github.com/Rk-2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0768-partition-labels](https://github.com/Rk-2005/DSA/tree/master/0768-partition-labels) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rk-2005/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Rk-2005/DSA/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Greedy
 |  |
 | ------- |
