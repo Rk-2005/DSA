@@ -5,7 +5,7 @@ public:
         int size = nums.size();
         for (int i = 0; i < size; i++) {
             int num = nums[i];
-            while (i+1 < size && num == nums[i + 1]) {
+            while (i+1 < size && num == nums[i + 1]) { 
                 i++;
             }
             nums[count] = num;
