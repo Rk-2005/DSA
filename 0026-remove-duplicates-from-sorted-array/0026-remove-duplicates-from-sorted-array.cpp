@@ -7,7 +7,7 @@ public:
             int num = nums[i];
             while (i+1 < size && num == nums[i + 1]) { 
                 i++;
-            }
+            } 
             nums[count] = num;
             count++;
         } 
