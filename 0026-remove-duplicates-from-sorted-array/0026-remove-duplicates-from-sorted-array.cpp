@@ -10,7 +10,7 @@ public:
             }
             nums[count] = num;
             count++;
-        }
+        } 
 
         return count;
     }
