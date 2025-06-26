@@ -73,6 +73,7 @@
 | [0768-partition-labels](https://github.com/Rk-2005/DSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Rk-2005/DSA/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Rk-2005/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Rk-2005/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rk-2005/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Rk-2005/DSA/tree/master/2215-finding-3-digit-even-numbers) |
@@ -173,6 +174,7 @@
 | [0386-lexicographical-numbers](https://github.com/Rk-2005/DSA/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Rk-2005/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Rk-2005/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rk-2005/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Rk-2005/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -183,6 +185,7 @@
 | [0100-same-tree](https://github.com/Rk-2005/DSA/tree/master/0100-same-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rk-2005/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Rk-2005/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rk-2005/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Rk-2005/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Rk-2005/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -258,6 +261,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Rk-2005/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Rk-2005/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Rk-2005/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
