@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/Rk-2005/DSA/tree/master/0238-product-of-array-except-self) |
 | [0416-partition-equal-subset-sum](https://github.com/Rk-2005/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0525-contiguous-array](https://github.com/Rk-2005/DSA/tree/master/0525-contiguous-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Rk-2005/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Rk-2005/DSA/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Rk-2005/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rk-2005/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Rk-2005/DSA/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/Rk-2005/DSA/tree/master/0525-contiguous-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/Rk-2005/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Rk-2005/DSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Rk-2005/DSA/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rk-2005/DSA/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Rk-2005/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rk-2005/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rk-2005/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rk-2005/DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -111,6 +114,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Rk-2005/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Rk-2005/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rk-2005/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Rk-2005/DSA/tree/master/2478-longest-nice-subarray) |
@@ -218,6 +222,7 @@
 | [0075-sort-colors](https://github.com/Rk-2005/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rk-2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rk-2005/DSA/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Rk-2005/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rk-2005/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rk-2005/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rk-2005/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
