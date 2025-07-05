@@ -4,7 +4,7 @@ public:
     int solve(map<int, vector<int>>& mp, int node, int dest,
               map<pair<int, int>, vector<pair<int, int>>> &costs) {
 
-        queue<pair<int, int>> q;
+        priority_queue<pair<int, int>,vector<pair<int, int>>,greater<pair<int, int>>> q;
 
         vector<int> visited(N, INT_MAX);
 
@@ -16,14 +16,14 @@ public:
             int sz = q.size();
 
             while (sz--) {
-                auto it = q.front();
+                auto it = q.top();
                 q.pop();
 
                 int cur = it.first;
                 int curcost = it.second;
 
                 if (cur == dest) {
-                    ans = min(ans, curcost);
+                   return curcost;
                 }
 
                 for (auto& child : mp[cur]) {
