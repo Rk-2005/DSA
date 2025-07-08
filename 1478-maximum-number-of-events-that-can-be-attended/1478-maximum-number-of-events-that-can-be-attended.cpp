@@ -11,6 +11,9 @@ public:
         int ans = 0;
         while (!pq.empty() || i < n) {
 
+            if(pq.empty()){
+                d= events[i][0];
+            }
             while (i < n && d == events[i][0]) {
                 pq.push(events[i][1]);
                 i++;
