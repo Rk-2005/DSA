@@ -16,6 +16,7 @@
 | [0134-gas-station](https://github.com/Rk-2005/DSA/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Rk-2005/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Rk-2005/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Rk-2005/DSA/tree/master/0239-sliding-window-maximum) |
 | [0416-partition-equal-subset-sum](https://github.com/Rk-2005/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rk-2005/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/Rk-2005/DSA/tree/master/0525-contiguous-array) |
@@ -125,6 +126,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rk-2005/DSA/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rk-2005/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Rk-2005/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rk-2005/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -134,6 +136,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rk-2005/DSA/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rk-2005/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rk-2005/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rk-2005/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -321,11 +324,13 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rk-2005/DSA/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rk-2005/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rk-2005/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Rk-2005/DSA/tree/master/0239-sliding-window-maximum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rk-2005/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rk-2005/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/Rk-2005/DSA/tree/master/2479-meeting-rooms-iii) |
