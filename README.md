@@ -24,6 +24,7 @@
 | [0525-contiguous-array](https://github.com/Rk-2005/DSA/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rk-2005/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Rk-2005/DSA/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Rk-2005/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Rk-2005/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rk-2005/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rk-2005/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -118,6 +119,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Rk-2005/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rk-2005/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Rk-2005/DSA/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rk-2005/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -236,6 +238,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Rk-2005/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rk-2005/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Rk-2005/DSA/tree/master/0494-target-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Rk-2005/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rk-2005/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rk-2005/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rk-2005/DSA/tree/master/2262-solving-questions-with-brainpower) |
