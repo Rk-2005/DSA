@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/Rk-2005/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Rk-2005/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Rk-2005/DSA/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/Rk-2005/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Rk-2005/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rk-2005/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Rk-2005/DSA/tree/master/0494-target-sum) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rk-2005/DSA/tree/master/0100-same-tree) |
+| [0322-coin-change](https://github.com/Rk-2005/DSA/tree/master/0322-coin-change) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rk-2005/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Rk-2005/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -245,6 +247,7 @@
 | [0118-pascals-triangle](https://github.com/Rk-2005/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rk-2005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rk-2005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/Rk-2005/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Rk-2005/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rk-2005/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Rk-2005/DSA/tree/master/0494-target-sum) |
