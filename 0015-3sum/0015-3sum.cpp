@@ -1,63 +1,43 @@
 class Solution {
 public:
-    void checksum(int target, int idx, vector<vector<int>>& ans,
-                  vector<int>& nums) {
-        int n = nums.size();
+    void solve(vector<int>& nums,int target, vector<vector<int>>&ans,int i,int j){
 
-        int i = idx+1;
-        int j = n - 1;
-        while (i < j) {
-           
-           
-
-            long long sum = nums[i] + nums[j];
-
-            if (sum > target) {
+        while(i<j){
+            int sum=nums[i]+nums[j];
+          
+            if(sum>target){
                 j--;
-            } else if (sum < target) {
+            }else if(sum<target){
                 i++;
-            } else {
-                while (i + 1 < n && nums[i] == nums[i + 1]) {
+            }else{
+                ans.push_back({-(target),nums[i],nums[j]});
+                while(i<nums.size()-1 && nums[i]==nums[i+1]){
                     i++;
                 }
-                while (j - 1 >= 0 && nums[j] == nums[j - 1]) {
+                while(j>0 && nums[j]==nums[j-1]){
                     j--;
                 }
-
-                vector<int> temp = {nums[i], nums[j], nums[idx]};
-
-                sort(temp.begin(), temp.end());
-
-                ans.push_back(temp);
-                i++;
-                j--;
+                 i++;
+                 j--;
             }
         }
     }
     vector<vector<int>> threeSum(vector<int>& nums) {
-        int n = nums.size();
-
-        sort(nums.begin(), nums.end());
-        for(auto it:nums){
-            cout<<it<<" ";
-        }
-        cout<<endl;
+        int n = size(nums);
+        sort(nums.begin(),nums.end());
         vector<vector<int>> ans;
-
         for (int i = 0; i < n; i++) {
-            int target = -nums[i];
+             if(i>0&&nums[i]==nums[i-1])continue;
+            int target =-(nums[i]);
 
+            solve(nums,target,ans,i+1,n-1);
             
-            cout<<target<<endl;
-            checksum(target, i, ans, nums);
-            while (i + 1 < n && nums[i] == nums[i + 1]) {
-                i++;
-            }
-           
         }
         return ans;
     }
 };
-
-//  [1,1,2,3,4,4]
-// target as 5
+// set a single element as my target (a+b+c=0; b+c=-a)
+// then i will apply 2-pointer on rest of nums[i]
+// but there is one problem
+// when there are duplicates element
+//[-4,-1,-1,0,1,2,2]
