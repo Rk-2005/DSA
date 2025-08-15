@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rk-2005/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Rk-2005/DSA/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rk-2005/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rk-2005/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Rk-2005/DSA/tree/master/2478-longest-nice-subarray) |
@@ -360,6 +361,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rk-2005/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Rk-2005/DSA/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/Rk-2005/DSA/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Rk-2005/DSA/tree/master/0826-soup-servings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rk-2005/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -440,4 +442,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Rk-2005/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Rk-2005/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
