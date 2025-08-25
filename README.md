@@ -25,6 +25,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Rk-2005/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rk-2005/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Rk-2005/DSA/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Rk-2005/DSA/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Rk-2005/DSA/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rk-2005/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/Rk-2005/DSA/tree/master/0797-rabbits-in-forest) |
@@ -393,6 +394,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rk-2005/DSA/tree/master/0036-valid-sudoku) |
 | [0221-maximal-square](https://github.com/Rk-2005/DSA/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/Rk-2005/DSA/tree/master/0498-diagonal-traverse) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rk-2005/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Linked List
 |  |
@@ -425,6 +427,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Rk-2005/DSA/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Rk-2005/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Rk-2005/DSA/tree/master/2479-meeting-rooms-iii) |
 ## Design
