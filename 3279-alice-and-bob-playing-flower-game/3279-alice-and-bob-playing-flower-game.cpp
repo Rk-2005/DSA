@@ -3,13 +3,12 @@ public:
     long long flowerGame(int n, int m) {
         long long ans = 0;
 
-        for (int i = 1; i <= n; i++) {
-            if (i % 2 == 0) {
-                ans += ((m + 1) / 2);
-            } else {
-                ans += ((m / 2));
-            }
-        }
+        long long odd = (n + 1) / 2;
+        long long even = (n) / 2;
+
+        ans += even * ((m + 1) / 2);
+
+        ans += odd * ((m / 2));
 
         return ans;
     }
