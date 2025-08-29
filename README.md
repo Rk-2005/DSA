@@ -372,6 +372,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rk-2005/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rk-2005/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Rk-2005/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Rk-2005/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Rk-2005/DSA/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rk-2005/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Monotonic Queue
