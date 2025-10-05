@@ -89,6 +89,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rk-2005/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Rk-2005/DSA/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rk-2005/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/Rk-2005/DSA/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rk-2005/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/Rk-2005/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Rk-2005/DSA/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rk-2005/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3827-implement-router](https://github.com/Rk-2005/DSA/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rk-2005/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rk-2005/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rk-2005/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/Rk-2005/DSA/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rk-2005/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rk-2005/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -176,6 +179,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rk-2005/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rk-2005/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rk-2005/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Rk-2005/DSA/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -453,6 +457,7 @@
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rk-2005/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Rk-2005/DSA/tree/master/2023-design-movie-rental-system) |
+| [3827-implement-router](https://github.com/Rk-2005/DSA/tree/master/3827-implement-router) |
 ## Backtracking
 |  |
 | ------- |
@@ -474,4 +479,5 @@
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/Rk-2005/DSA/tree/master/2023-design-movie-rental-system) |
+| [3827-implement-router](https://github.com/Rk-2005/DSA/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
