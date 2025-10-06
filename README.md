@@ -91,6 +91,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rk-2005/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/Rk-2005/DSA/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rk-2005/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [4015-split-array-with-minimum-difference](https://github.com/Rk-2005/DSA/tree/master/4015-split-array-with-minimum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rk-2005/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rk-2005/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Rk-2005/DSA/tree/master/3639-zero-array-transformation-i) |
+| [4015-split-array-with-minimum-difference](https://github.com/Rk-2005/DSA/tree/master/4015-split-array-with-minimum-difference) |
 ## Union Find
 |  |
 | ------- |
