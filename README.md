@@ -71,6 +71,7 @@
 | [2690-house-robber-iv](https://github.com/Rk-2005/DSA/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rk-2005/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rk-2005/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2893-visit-array-positions-to-maximize-score](https://github.com/Rk-2005/DSA/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Rk-2005/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rk-2005/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Rk-2005/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -283,6 +284,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rk-2005/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rk-2005/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rk-2005/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2893-visit-array-positions-to-maximize-score](https://github.com/Rk-2005/DSA/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Rk-2005/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rk-2005/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rk-2005/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
