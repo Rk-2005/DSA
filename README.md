@@ -500,4 +500,5 @@
 |  |
 | ------- |
 | [1258-article-views-i](https://github.com/Rk-2005/DSA/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/Rk-2005/DSA/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
