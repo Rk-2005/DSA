@@ -496,4 +496,8 @@
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/Rk-2005/DSA/tree/master/2023-design-movie-rental-system) |
 | [3827-implement-router](https://github.com/Rk-2005/DSA/tree/master/3827-implement-router) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/Rk-2005/DSA/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
