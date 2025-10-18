@@ -89,6 +89,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rk-2005/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Rk-2005/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rk-2005/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rk-2005/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Rk-2005/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rk-2005/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Rk-2005/DSA/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -330,6 +331,7 @@
 | [3321-type-of-triangle](https://github.com/Rk-2005/DSA/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Rk-2005/DSA/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rk-2005/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Rk-2005/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Two Pointers
 |  |
 | ------- |
