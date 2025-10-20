@@ -6,4 +6,4 @@ from Employee e1
 LEFT join Employee e2 
 on e1.id = e2.managerId
 GROUP BY e1.id
-HAVING COUNT(e2.managerId)>=5;
+HAVING COUNT(e1.id)>=5;
