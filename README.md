@@ -86,6 +86,7 @@
 | [3430-count-days-without-meetings](https://github.com/Rk-2005/DSA/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rk-2005/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rk-2005/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Rk-2005/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rk-2005/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rk-2005/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Rk-2005/DSA/tree/master/3639-zero-array-transformation-i) |
@@ -201,6 +202,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Rk-2005/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rk-2005/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rk-2005/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Rk-2005/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/Rk-2005/DSA/tree/master/3639-zero-array-transformation-i) |
 | [4015-split-array-with-minimum-difference](https://github.com/Rk-2005/DSA/tree/master/4015-split-array-with-minimum-difference) |
 ## Union Find
@@ -480,6 +482,7 @@
 | [0498-diagonal-traverse](https://github.com/Rk-2005/DSA/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Rk-2005/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Rk-2005/DSA/tree/master/2479-meeting-rooms-iii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Rk-2005/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Design
 |  |
 | ------- |
