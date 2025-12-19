@@ -1,42 +1,81 @@
 class Solution {
 public:
-    using int2=pair<int, int>;
-    vector<int> findAllPeople(int n, vector<vector<int>>& meetings, int firstPerson)
-    {
-        vector<vector<int2>> adj(n);
-        // Build adjacent lists
-        for(auto& meet: meetings){
-            int x=meet[0], y=meet[1], time=meet[2];
-            adj[x].emplace_back(time, y);
-            adj[y].emplace_back(time, x);
+    vector<int> findAllPeople(int n, vector<vector<int>>& meetings,
+                              int firstPerson) {
+
+        int m = meetings.size();
+
+        unordered_map<int, vector<pair<int, int>>> mp;
+
+        for (auto &it : meetings) {
+            int x = it[0];
+            int y = it[1];
+            int t = it[2];
+
+            mp[x].push_back({y, t});
+            mp[y].push_back({x, t});
         }
-        vector<int> known(n, INT_MAX);
-        vector<int> list;
-        priority_queue<int2, vector<int2>, greater<int2>> pq;// min heap
-        pq.emplace(0, 0);
-        pq.emplace(0, firstPerson);
-        while(!pq.empty()){
-            auto [s, x]=pq.top();
+
+        vector<int> vis(n, INT_MAX);
+
+        vis[0] = 0;
+        vis[firstPerson] = 0;
+
+        priority_queue<pair<int, int>, vector<pair<int, int>>,
+                       greater<pair<int, int>>>
+            pq;
+
+        pq.push({0, 0});
+        pq.push({0, firstPerson});
+        vector<bool>dekhahua(n,0);
+        while (!pq.empty()) {
+
+            auto it = pq.top();
             pq.pop();
-            if (known[x]!=INT_MAX) continue;
-        //    cout<<"knowing secret time="<<s<<", person="<<x<<endl;
-            list.push_back(x);
-            known[x]=s;
-            for(auto& [t, y]: adj[x]){
-                if (known[y]!=INT_MAX ||t<s) continue;//known or too early met
-                pq.emplace(t, y);
+
+            int time = it.first;
+            int node = it.second;
             
+            if(dekhahua[node]){
+                continue;
+            }
+            dekhahua[node]=1;
+
+            for (auto &child : mp[node]) {
+
+                int node2 = child.first;
+
+                int t = child.second;
+
+                if (t >= time && vis[node2] > t) {
+                    pq.push({t, node2});
+                    vis[node2] = t;
+                }
             }
         }
-        
-        return list;
+
+        vector<int> ans;
+
+        for (int i = 0; i < n; i++) {
+            if (vis[i] != INT_MAX) {
+                ans.push_back(i);
+            }
+        }
+
+        return ans;
     }
 };
 
+// if suppose times are distinct
+// then its very easy que
+// just we have to sort array then check in set if element is present
 
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
+// [1,2,3],[2,3,3]
+
+// ( 1 <-> 2 <-> 3 ) // if that value has secret i will push that into queue
+// then i will traverse and mark childs also
+
+// 1 - (2,2),(5,40)
+// 2 - > (5,3)
+
+// (2,2),(5,40),(5,3)
