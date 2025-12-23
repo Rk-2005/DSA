@@ -53,6 +53,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rk-2005/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Rk-2005/DSA/tree/master/2023-design-movie-rental-system) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Rk-2005/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2054-two-best-non-overlapping-events](https://github.com/Rk-2005/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rk-2005/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rk-2005/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rk-2005/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -115,6 +116,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Rk-2005/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rk-2005/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Rk-2005/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2054-two-best-non-overlapping-events](https://github.com/Rk-2005/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rk-2005/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rk-2005/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Rk-2005/DSA/tree/master/2665-minimum-time-to-repair-cars) |
@@ -320,6 +322,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rk-2005/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rk-2005/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rk-2005/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2054-two-best-non-overlapping-events](https://github.com/Rk-2005/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rk-2005/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Rk-2005/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rk-2005/DSA/tree/master/2262-solving-questions-with-brainpower) |
@@ -351,6 +354,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rk-2005/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rk-2005/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Rk-2005/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2054-two-best-non-overlapping-events](https://github.com/Rk-2005/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Rk-2005/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rk-2005/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rk-2005/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -471,6 +475,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Rk-2005/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rk-2005/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Rk-2005/DSA/tree/master/2023-design-movie-rental-system) |
+| [2054-two-best-non-overlapping-events](https://github.com/Rk-2005/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rk-2005/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rk-2005/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Rk-2005/DSA/tree/master/2479-meeting-rooms-iii) |
