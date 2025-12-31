@@ -50,6 +50,7 @@
 | [1813-maximum-erasure-value](https://github.com/Rk-2005/DSA/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rk-2005/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rk-2005/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Rk-2005/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rk-2005/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Rk-2005/DSA/tree/master/2023-design-movie-rental-system) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Rk-2005/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
@@ -116,6 +117,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Rk-2005/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rk-2005/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Rk-2005/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Rk-2005/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rk-2005/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rk-2005/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rk-2005/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -225,6 +227,7 @@
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Rk-2005/DSA/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Rk-2005/DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Rk-2005/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Rk-2005/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rk-2005/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rk-2005/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -284,6 +287,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rk-2005/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Rk-2005/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Rk-2005/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Rk-2005/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Rk-2005/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rk-2005/DSA/tree/master/2793-count-the-number-of-complete-components) |
@@ -299,6 +303,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rk-2005/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Rk-2005/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Rk-2005/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Rk-2005/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rk-2005/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Rk-2005/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -488,6 +493,7 @@
 | [0036-valid-sudoku](https://github.com/Rk-2005/DSA/tree/master/0036-valid-sudoku) |
 | [0221-maximal-square](https://github.com/Rk-2005/DSA/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/Rk-2005/DSA/tree/master/0498-diagonal-traverse) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Rk-2005/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2625-increment-submatrices-by-one](https://github.com/Rk-2005/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rk-2005/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Linked List
