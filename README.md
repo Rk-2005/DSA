@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/Rk-2005/DSA/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Rk-2005/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rk-2005/DSA/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Rk-2005/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rk-2005/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rk-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rk-2005/DSA/tree/master/0088-merge-sorted-array) |
@@ -452,6 +453,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Rk-2005/DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Rk-2005/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rk-2005/DSA/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/Rk-2005/DSA/tree/master/0797-rabbits-in-forest) |
