@@ -52,6 +52,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rk-2005/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rk-2005/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rk-2005/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Rk-2005/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rk-2005/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Rk-2005/DSA/tree/master/2023-design-movie-rental-system) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Rk-2005/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
@@ -412,6 +413,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Rk-2005/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rk-2005/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rk-2005/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/Rk-2005/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Rk-2005/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rk-2005/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Rk-2005/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -496,6 +498,7 @@
 | [0221-maximal-square](https://github.com/Rk-2005/DSA/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/Rk-2005/DSA/tree/master/0498-diagonal-traverse) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rk-2005/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Rk-2005/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2625-increment-submatrices-by-one](https://github.com/Rk-2005/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rk-2005/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Linked List
