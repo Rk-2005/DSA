@@ -40,6 +40,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Rk-2005/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rk-2005/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rk-2005/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Rk-2005/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rk-2005/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rk-2005/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Rk-2005/DSA/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -328,6 +329,7 @@
 | [0826-soup-servings](https://github.com/Rk-2005/DSA/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rk-2005/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rk-2005/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Rk-2005/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rk-2005/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rk-2005/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rk-2005/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
