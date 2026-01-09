@@ -138,6 +138,7 @@
 | [0740-delete-and-earn](https://github.com/Rk-2005/DSA/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/Rk-2005/DSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Rk-2005/DSA/tree/master/0797-rabbits-in-forest) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rk-2005/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/Rk-2005/DSA/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rk-2005/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -287,6 +288,7 @@
 | [0386-lexicographical-numbers](https://github.com/Rk-2005/DSA/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Rk-2005/DSA/tree/master/0801-is-graph-bipartite) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rk-2005/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rk-2005/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Rk-2005/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -303,6 +305,7 @@
 | [0100-same-tree](https://github.com/Rk-2005/DSA/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Rk-2005/DSA/tree/master/0322-coin-change) |
 | [0801-is-graph-bipartite](https://github.com/Rk-2005/DSA/tree/master/0801-is-graph-bipartite) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rk-2005/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rk-2005/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Rk-2005/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -437,6 +440,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rk-2005/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rk-2005/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Rk-2005/DSA/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Rk-2005/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -448,6 +452,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rk-2005/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rk-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rk-2005/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Enumeration
 |  |
