@@ -90,6 +90,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Rk-2005/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Rk-2005/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Rk-2005/DSA/tree/master/3321-type-of-triangle) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rk-2005/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Rk-2005/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Rk-2005/DSA/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/Rk-2005/DSA/tree/master/3433-count-mentions-per-user) |
@@ -127,6 +128,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/Rk-2005/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Rk-2005/DSA/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Rk-2005/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rk-2005/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3827-implement-router](https://github.com/Rk-2005/DSA/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
@@ -202,6 +204,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rk-2005/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Rk-2005/DSA/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rk-2005/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rk-2005/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rk-2005/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rk-2005/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Queue
@@ -221,6 +224,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Rk-2005/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rk-2005/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Rk-2005/DSA/tree/master/2625-increment-submatrices-by-one) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rk-2005/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rk-2005/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rk-2005/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/Rk-2005/DSA/tree/master/3639-zero-array-transformation-i) |
@@ -378,6 +382,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rk-2005/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Rk-2005/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Rk-2005/DSA/tree/master/3321-type-of-triangle) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rk-2005/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3430-count-days-without-meetings](https://github.com/Rk-2005/DSA/tree/master/3430-count-days-without-meetings) |
 | [3433-count-mentions-per-user](https://github.com/Rk-2005/DSA/tree/master/3433-count-mentions-per-user) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rk-2005/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
