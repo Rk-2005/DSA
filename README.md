@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/Rk-2005/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rk-2005/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rk-2005/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Rk-2005/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Rk-2005/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Rk-2005/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rk-2005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -324,6 +325,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Rk-2005/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rk-2005/DSA/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/Rk-2005/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Rk-2005/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rk-2005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rk-2005/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -507,6 +509,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rk-2005/DSA/tree/master/0036-valid-sudoku) |
+| [0085-maximal-rectangle](https://github.com/Rk-2005/DSA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Rk-2005/DSA/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/Rk-2005/DSA/tree/master/0498-diagonal-traverse) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rk-2005/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -520,6 +523,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Rk-2005/DSA/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rk-2005/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/Rk-2005/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Rk-2005/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -527,6 +531,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Rk-2005/DSA/tree/master/0085-maximal-rectangle) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rk-2005/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Memoization
 |  |
