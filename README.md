@@ -39,6 +39,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rk-2005/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rk-2005/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Rk-2005/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Rk-2005/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rk-2005/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rk-2005/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Rk-2005/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -474,6 +475,7 @@
 | [0342-power-of-four](https://github.com/Rk-2005/DSA/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/Rk-2005/DSA/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Rk-2005/DSA/tree/master/0826-soup-servings) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Rk-2005/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Rk-2005/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Rk-2005/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rk-2005/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -601,4 +603,8 @@
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Rk-2005/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Rk-2005/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
