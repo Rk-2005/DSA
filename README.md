@@ -522,6 +522,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rk-2005/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/Rk-2005/DSA/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -580,6 +581,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Rk-2005/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Rk-2005/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rk-2005/DSA/tree/master/0342-power-of-four) |
 ## Ordered Set
