@@ -85,6 +85,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rk-2005/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/Rk-2005/DSA/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Rk-2005/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Rk-2005/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Rk-2005/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Rk-2005/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Rk-2005/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -163,6 +164,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Rk-2005/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/Rk-2005/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Rk-2005/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Rk-2005/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Rk-2005/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rk-2005/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rk-2005/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -207,6 +209,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rk-2005/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Rk-2005/DSA/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Rk-2005/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Rk-2005/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rk-2005/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rk-2005/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rk-2005/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -508,6 +511,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rk-2005/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rk-2005/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Rk-2005/DSA/tree/master/2479-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Rk-2005/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Rk-2005/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rk-2005/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Rk-2005/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
