@@ -116,6 +116,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rk-2005/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/Rk-2005/DSA/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Rk-2005/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3840-house-robber-v](https://github.com/Rk-2005/DSA/tree/master/3840-house-robber-v) |
 | [3863-power-grid-maintenance](https://github.com/Rk-2005/DSA/tree/master/3863-power-grid-maintenance) |
 | [4015-split-array-with-minimum-difference](https://github.com/Rk-2005/DSA/tree/master/4015-split-array-with-minimum-difference) |
 | [4027-number-of-stable-subsequences](https://github.com/Rk-2005/DSA/tree/master/4027-number-of-stable-subsequences) |
@@ -362,6 +363,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rk-2005/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Rk-2005/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rk-2005/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3840-house-robber-v](https://github.com/Rk-2005/DSA/tree/master/3840-house-robber-v) |
 | [4027-number-of-stable-subsequences](https://github.com/Rk-2005/DSA/tree/master/4027-number-of-stable-subsequences) |
 | [4041-climbing-stairs-ii](https://github.com/Rk-2005/DSA/tree/master/4041-climbing-stairs-ii) |
 ## Shortest Path
