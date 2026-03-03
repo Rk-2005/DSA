@@ -273,6 +273,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rk-2005/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Rk-2005/DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rk-2005/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rk-2005/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rk-2005/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Rk-2005/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Rk-2005/DSA/tree/master/2211-count-collisions-on-a-road) |
@@ -572,6 +573,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Rk-2005/DSA/tree/master/0498-diagonal-traverse) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rk-2005/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Rk-2005/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Rk-2005/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Rk-2005/DSA/tree/master/2479-meeting-rooms-iii) |
@@ -602,6 +604,7 @@
 | [0206-reverse-linked-list](https://github.com/Rk-2005/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Rk-2005/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rk-2005/DSA/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rk-2005/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Ordered Set
 |  |
 | ------- |
