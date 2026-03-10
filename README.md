@@ -239,6 +239,7 @@
 | [3639-zero-array-transformation-i](https://github.com/Rk-2005/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rk-2005/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rk-2005/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Rk-2005/DSA/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [4015-split-array-with-minimum-difference](https://github.com/Rk-2005/DSA/tree/master/4015-split-array-with-minimum-difference) |
 ## Union Find
 |  |
@@ -289,6 +290,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Rk-2005/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rk-2005/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Rk-2005/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Rk-2005/DSA/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Rk-2005/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Topological Sort
 |  |
@@ -569,6 +571,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Rk-2005/DSA/tree/master/0169-majority-element) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rk-2005/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3864-minimum-cost-to-partition-a-binary-string](https://github.com/Rk-2005/DSA/tree/master/3864-minimum-cost-to-partition-a-binary-string) |
 ## Simulation
 |  |
 | ------- |
