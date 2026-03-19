@@ -91,6 +91,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Rk-2005/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rk-2005/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Rk-2005/DSA/tree/master/3194-find-words-containing-character) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rk-2005/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Rk-2005/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Rk-2005/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Rk-2005/DSA/tree/master/3321-type-of-triangle) |
@@ -234,6 +235,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Rk-2005/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Rk-2005/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Rk-2005/DSA/tree/master/2625-increment-submatrices-by-one) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rk-2005/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rk-2005/DSA/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rk-2005/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rk-2005/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -538,6 +540,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rk-2005/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Rk-2005/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2625-increment-submatrices-by-one](https://github.com/Rk-2005/DSA/tree/master/2625-increment-submatrices-by-one) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Rk-2005/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rk-2005/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Linked List
 |  |
