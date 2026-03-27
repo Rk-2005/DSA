@@ -43,6 +43,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rk-2005/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Rk-2005/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Rk-2005/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1463-cherry-pickup-ii](https://github.com/Rk-2005/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rk-2005/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rk-2005/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Rk-2005/DSA/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -357,6 +358,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rk-2005/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rk-2005/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Rk-2005/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1463-cherry-pickup-ii](https://github.com/Rk-2005/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rk-2005/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Rk-2005/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rk-2005/DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -539,6 +541,7 @@
 | [0085-maximal-rectangle](https://github.com/Rk-2005/DSA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Rk-2005/DSA/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/Rk-2005/DSA/tree/master/0498-diagonal-traverse) |
+| [1463-cherry-pickup-ii](https://github.com/Rk-2005/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rk-2005/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Rk-2005/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2625-increment-submatrices-by-one](https://github.com/Rk-2005/DSA/tree/master/2625-increment-submatrices-by-one) |
