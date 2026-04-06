@@ -33,6 +33,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Rk-2005/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0740-delete-and-earn](https://github.com/Rk-2005/DSA/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/Rk-2005/DSA/tree/master/0797-rabbits-in-forest) |
+| [0874-walking-robot-simulation](https://github.com/Rk-2005/DSA/tree/master/0874-walking-robot-simulation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rk-2005/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Rk-2005/DSA/tree/master/0940-fruit-into-baskets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rk-2005/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -152,6 +153,7 @@
 | [0768-partition-labels](https://github.com/Rk-2005/DSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Rk-2005/DSA/tree/master/0797-rabbits-in-forest) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rk-2005/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Rk-2005/DSA/tree/master/0874-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/Rk-2005/DSA/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Rk-2005/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rk-2005/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -593,6 +595,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Rk-2005/DSA/tree/master/0498-diagonal-traverse) |
+| [0874-walking-robot-simulation](https://github.com/Rk-2005/DSA/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rk-2005/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Rk-2005/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/Rk-2005/DSA/tree/master/2211-count-collisions-on-a-road) |
