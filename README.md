@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rk-2005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Rk-2005/DSA/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Rk-2005/DSA/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Rk-2005/DSA/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Rk-2005/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Rk-2005/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rk-2005/DSA/tree/master/0075-sort-colors) |
@@ -504,6 +505,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rk-2005/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Rk-2005/DSA/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Rk-2005/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rk-2005/DSA/tree/master/0342-power-of-four) |
@@ -547,6 +549,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rk-2005/DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Rk-2005/DSA/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Rk-2005/DSA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Rk-2005/DSA/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/Rk-2005/DSA/tree/master/0498-diagonal-traverse) |
