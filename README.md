@@ -111,6 +111,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rk-2005/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Rk-2005/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Rk-2005/DSA/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rk-2005/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3639-zero-array-transformation-i](https://github.com/Rk-2005/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rk-2005/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rk-2005/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -178,6 +179,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Rk-2005/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Rk-2005/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rk-2005/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rk-2005/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rk-2005/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3719-longest-balanced-subarray-i](https://github.com/Rk-2005/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rk-2005/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -344,6 +346,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rk-2005/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Rk-2005/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rk-2005/DSA/tree/master/2793-count-the-number-of-complete-components) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rk-2005/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Rk-2005/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Rk-2005/DSA/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/Rk-2005/DSA/tree/master/3863-power-grid-maintenance) |
@@ -521,6 +524,7 @@
 | [3433-count-mentions-per-user](https://github.com/Rk-2005/DSA/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Rk-2005/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Rk-2005/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rk-2005/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rk-2005/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Monotonic Queue
 |  |
@@ -681,4 +685,8 @@
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Rk-2005/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Rk-2005/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
